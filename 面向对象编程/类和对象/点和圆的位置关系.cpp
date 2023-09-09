@@ -56,7 +56,7 @@ public:
 	
 private:
 	int m_R;//°ë¾¶ 
-	
+	//ÔÚÀàÖĞ 
 	Point m_Center;
 	
  }; 
